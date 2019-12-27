@@ -32,9 +32,7 @@
             "name": "NASA Live - Earth From Space",
             "url": "https://www.youtube.com/watch?v=RtU_mdL2vBM"
         }]
-    }, 
-    
-    {
+    }, {
         "title": "Misc",
         "type": "section"
     }, {
@@ -50,5 +48,20 @@
         "name": "audio",
         "type": "boolean",
         "default": true
+    }, {
+        "title": "CEC events",
+        "type": "section"
+    }, {
+        "title": "Channel up event name",
+        "ui_width": 6,
+        "name": "cecup",
+        "type": "string",
+        "default": "channel-up"
+    }, {
+        "title": "Channel down event name",
+        "ui_width": 6,
+        "name": "cecdown",
+        "type": "string",
+        "default": "channel-down"
     }]
 }
