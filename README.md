@@ -20,13 +20,17 @@ Alternatively you can visit the device detail page for any of your devices and u
 
 ## Updates
 
+### version sl-1.3.0
+
+updated bundled streamlink to 1.3.0
+
 ### Version pi4
 
 Updated for Pi4 compatibility.
 
-### Version sl-1.1.0
+### version sl-1.1.0
 
-Updated bundled streamlink to 1.1.0
+updated bundled streamlink to 1.1.0
 
 ### Version sl-965c375
 
